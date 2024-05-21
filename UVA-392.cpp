@@ -1,5 +1,5 @@
 https://vjudge.net/problem/UVA-392
-//
+//if/else condition
 #include<bits/stdc++.h>
 using namespace std;
 int main()
