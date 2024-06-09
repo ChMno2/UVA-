@@ -1,3 +1,4 @@
+
 https://vjudge.net/problem/UVA-10443
 //algorithm:Brust forse
 #include<bits/stdc++.h>
